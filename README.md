@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on novel methods for tracing the ancient biogeochemical processess
 - 📫 How to reach me: contact me at xubinwang (\at) pku.edu.cn
 - 😄 Pronouns: Masculine
-- ⚡ Fun fact: 230-220/2=5!
+- ⚡ Fun fact: 230 - 220 / 2 = 5!
 
 <!---
 X-B-Wang/X-B-Wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
